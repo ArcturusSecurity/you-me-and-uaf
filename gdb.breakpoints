@@ -1,0 +1,4 @@
+break doProcess
+commands 1
+	x/10x obj
+	print obj->func
